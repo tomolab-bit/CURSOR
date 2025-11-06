@@ -1,0 +1,327 @@
+0:00
+Today on the AI Daily Brief, Accenture let's go of about 11,000 people with an indication for more cuts to come for folks who can't be reskilled for the new Gen.
+AI world.
+Before that in the headlines, the AI cost performance frontier continues to improve.
+The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI.
+0:24
+All right, friends, quick announcements before we dive in.
+First of all, thank you to today's sponsors, robots and pencils, Notion Blitzy and super intelligent.
+To get an ad free version of the show, go to patreon.com/AI Daily Brief.
+And if you're interested in sponsoring the show, send us a note at sponsors at AI daily Brief dot AI.
+0:40
+By the way, you might notice that there is a new tab on the AI daily Brief homepage, which is for speaking engagements.
+This is being coming up more and more now and between a daily podcast and everything with super intelligent, I have to keep these slots extremely, extremely limited.
+0:55
+So if you are planning on something and want to find out more about opportunities there, you can send a note at speaking at AI daily Brief dot AI.
+But with that, let's get to the show.
+Welcome back to the AI daily Brief headlines edition, all the daily AI news you need in around 5 minutes.
+One of the things that I'm tracking most closely is just how much the cost performance frontier is improving.
+1:16
+In addition to just raw performance on benchmarks.
+I think one of the things that's really powerful right now is how much better cheaper models are getting.
+In other words, the gap between the state-of-the-art models and the faster, more performant, lower cost models is decreasing, and that brings a lot of production level use cases online that might have started to get difficult at state-of-the-art prices.
+1:37
+In this vein, at the end of last week, Google announced an update to their small models to deliver more quality, speed, and efficiency.
+The update to Gemini 2.5 Flashlight focused on better instruction following reduced verbosity and stronger multimodal capabilities.
+As a result, artificial analysis found the model uses half as many tokens and therefore should see a 50% cost reduction for tasks in production.
+1:59
+The Gemini Flash update, meanwhile, was focused on better agentic tool use as well as token efficiency.
+Mana's agent found the model delivered a 15% jump in performance on long horizon tasks using their internal benchmarks.
+In addition, Google announced an improved Gemini Live, their audio first real time API for voice applications.
+2:16
+The update has doubled the success rate for function calling and improved how the AI handles pauses and interruptions in audio conversation.
+You can see on the updated Artificial Analysis Index the new versions of the models have jumped up meaningfully closing that gap again between the flagship and the lightweight models.
+2:33
+This stuff is far less sexy than Gemini 3.
+But from here on out, guys, a lot of the updates that are going to matter for the production uses that drive your businesses are going to be these sort of changes.
+Now one thing that is a big headline getter, if it ever comes to pass will be an actually updated AI Siri.
+2:49
+Apparently we are still making progress towards that goal, with Apple staff now testing the new AI Siri targeting a release date for early next year.
+Bloomberg's Apple specialist Mark Gurman writes that the company has developed a ChatGPT like iPhone app for the purposes of internal testing.
+The app is being used to rapidly evaluate new features as well as testing Siri's ability to search personal data and perform in app actions across the iPhone ecosystem.
+3:11
+This is of course the big unlock.
+The reason that people are not totally counting Apple out of the game is that the iPhone is just such a context machine that if they can get it, it does still seem like their vision of Apple intelligence that actually knows you could come to pass.
+Still, when it comes to this new application, sources say that the app is purely for internal testing and won't see a public release.
+3:31
+Gurmann wrote.
+Even without a public launch, the internal tool marks a new phase in Apple's preparations for series overhaul.
+And jumping out of his normal role as just a news reporter, Gurmann dropped some feedback of his own.
+He followed up his reporting with a weekend newsletter that pushed the contention that Apple needs to release a ChatGPT competitor to boost the credibility of their AI system.
+3:50
+Reflecting on the botched rollout of Apple Intelligence, he wrote Apple's decision to pose as an industry leader while dismissing the chatbot driven approach of rivals quickly backfired.
+In a rare misstep, the company bet on the wrong horse, deeply integrated AI features instead of a ChatGPT style experience.
+Apple may be right that this method of system wide integration will be the future, but it's insistence that consumers wouldn't care about chat bots was a costly mistake.
+4:13
+Commenting on the lack of plans to release the product, he continued.
+This, I believe, is a mistake.
+While the improvements to Siri will bridge some of the gap with AI leaders, services like ChatGPT, Perplexity and Gemini have made it abundantly clear that people want a proper chat bot experience.
+It's proven to be a compelling and useful tool for many parts of life.
+4:30
+The lack of a chat bot could also make it harder for Apple to show how far it's come.
+Siri, after all, has some baggage.
+After long standing complaints about the assistant and launch delays of the upgrade, Apple risks muddying what could be breakthrough AI technology by solely embedding it within this existing platform.
+Launching the chat bot as a stand alone app could generate far more interest.
+4:50
+Moving over to fundraising news, image generation startup Black Forest Labs is in talks to raise at a $4 billion valuation.
+The Financial Times reports that the one year old startup is exploring a deal to raise between 200 and 300 million.
+Black Forest burst onto the scene last August when they partnered with X AI to power Grok's first native image generation tool using their Flux model, and more recently they partnered with Meta on the much maligned Vibes AI video feed alongside Mid Journey.
+5:14
+As well as being added to Photoshop's platform, the fundraising would quadruple the billion dollar valuation from their previous round last September.
+Now many articles about this fundraise are making a big deal out of this being the second big AI startup out of Europe, with of course the other being Mistral, who were themselves in the news.
+5:31
+The Wall Street Journal recently reported that Mistral is thinking about how to access private data in order to build a new generation of models.
+Mistral CEO Arthur Mensch said.
+For the last three years we've been able to compress human knowledge and make models increase across the board, but now we're reaching A saturation point there and that means the next frontier is in getting access to a new kind of environment.
+5:50
+Mistral's plan then is to partner with enterprises to conduct post training using their proprietary data.
+Dutch chip making equipment manufacturer ASML is one of the first Test subjects.
+They recently invested 1.5 billion in Mistral to become their largest shareholder.
+As part of a strategic partnership, Mistral will embed their own solution architects and applied AI researchers at ASML in order to post train their models using corporate data.
+6:12
+Men said this partnered approach is necessary for most companies, commenting The very high tech companies and a couple of banks are able to do it on their own, but when it comes to getting some return on investment from use cases in general, they fail.
+Lastly, today, Speaking of Europe and the rest of the world, Anthropic is apparently going on a big global hiring blitz to end the year.
+6:31
+They plan to triple their international workforce and are currently actively recruiting country leads for India, Australia, New Zealand, Korea and Singapore.
+The expansion will see more than 100 roles added across the London and Dublin offices, as well as new regional offices in Japan and Europe.
+In addition, Anthropic plans to expand their applied AI team fivefold.
+6:48
+The expansion is being overseen by newly hired Managing Director of International, Chris Siari.
+Ciara was previously the President of Europe, the Middle East and Africa for Google as well as serving as Executive VP of those regions for Salesforce.
+During his decade long tenor at Salesforce, he scaled regional business from 200 million to over 3 billion and said the global demand for Claude is extraordinary.
+7:08
+From financial services in London to manufacturing in Tokyo, enterprises are trusting Claude to power their mission critical operations.
+This is a key moment for Anthropic to expand the infrastructure and partnership needed to serve this growing international customer base.
+The announcement came with a series of statistics showing how dramatic Anthropic's international growth has been.
+7:26
+Over the past two years, Anthropic has gone from having 1000 enterprise customers to over 300,000.
+Revenue has grown from 87,000,000 at the beginning of 2024 to over 5 billion today, with Anthropic now officially claiming the lead market share in enterprise AI.
+Entropic also estimates that over 80% of consumer clawed usage is now coming from outside the US and believe that per capita usage in countries like South Korea, Australia, and Singapore are outpacing consumer use in the US.
+7:51
+This is actually one of the really interesting comparison points to AI versus the Internet.
+It took the Internet something like 19 years to reach a point where 90% of usage was coming from outside of North America.
+It took AI less than two years to get to that point.
+This is, in other words, a truly global technology right from the beginning.
+8:08
+And it sounds like Entropic does not want to leave all of that opportunity on the table for now.
+That is going to do it for today's AI Daily Brief Headlines edition.
+Next up the main episode.
+Small, nimble teams beat bloated consulting every time.
+Robots and Pencils partners with organizations on intelligent cloud native systems powered by AI.
+8:27
+They cover human needs, design AI solutions, and cut through complexity to deliver meaningful impact without the layers of bureaucracy.
+As an AWS Certified Partner, Robots and Pencils combines the reach of a large firm with the focus of a trusted partner.
+With teams across the US, Canada, Europe and Latin America, clients gain local expertise and global scale.
+8:46
+As AI evolves, they ensure you keep peace with change, and that means faster results, measurable outcomes, and a partnership built to last.
+The right partner makes progress inevitable.
+Partner with robotsandpencils@robotsandpencils.com/AI Daily Brief Chat bots are great, but they can only take you so far.
+9:05
+I've recently been testing Notions new AI agents and they are a very different type of experience.
+These are agents that actually complete entire workflows for you in your style, and best of all, they work in a channel that you already know and love because they are purpose built Notion super users.
+9:21
+Notion's new AI agents completely expands the range of what Notion can do.
+It can now build documents from your entire company's knowledge base, organize scattered information into organize reports, basically do tasks that used to take days and get them complete in minutes.
+These agents don't just help with work, they finish it.
+9:36
+Getting started with building on Notion is easier than ever.
+Notion agents are now your very own super user to help you on board.
+In minutes, your AI teammates are ready to work.
+Try Notion AI for free at the link in our show notes.
+This episode is brought to you by Blitzie, the enterprise autonomous software development platform with infinite code context.
+9:55
+Blitzie uses thousands of specialized AI agents that think for hours to understand enterprise scale code bases with millions of lines of code.
+Enterprise engineering leaders start every development Sprint with the Blitzie platform, bringing in their development requirements.
+The Blitzie platform provides a plan, then generates and pre compiles code for each task.
+10:12
+Blitzie delivers 80% plus of the development work autonomously while providing a guide for the final 20% of human development work required to complete the Sprint.
+Companies are achieving a 5X engineering velocity increase when incorporating Blitzy as their pre IDE development tool, pairing it with their coding copilot of choice to bring an AI native STLC into their org.
+10:30
+Blitzy is providing a limited time 30 day free proof of concept for qualifying enterprises.
+The team will provide a 5X velocity increase on a real development project in your org.
+Visit blitzy.com and press book demo to learn how Blitzy transforms your STLC from AI assisted to AI native.
+10:46
+That's BLITZ y.com.
+Today's episode is brought to you by Super Intelligent.
+Now, one thing that we are having a lot of conversations with folks about is the fact that for some of you, your fiscal year is coming to an end.
+And that means two things.
+One, it means planning and thinking about what you're going to do in the next year.
+11:04
+And two, it means using up those last of budgets so you don't lose them.
+If you are an enterprise that happens to find yourself in that situation, Super Intelligent would love to help on both fronts.
+We are moving increasingly towards an annual AI planning model where we map out how you can create an action map of your organization's agent opportunities that represents an executable backlog of AI and agent use cases that you can deliver on over the course of the next year.
+11:30
+Additionally, for those end of your budgets, we have worked out deals with a number of partners where we can pre lock in general implementation packages even before you figured out exactly what use cases are going to require them.
+If you'd like to learn more about Uerintelligence agent readiness audits and this new end of fiscal year plan, visit us at bsuerai.
+11:47
+Click get started and make sure to use the word fiscal somewhere in the descripcion.
+Welcome back to the AI Daily Brief.
+Today we are talking about something which was ripping through my LinkedIn all weekend, which was the fallout of this earnings call from Accenture on Thursday, where effectively the company's leadership said that for those employees that they couldn't reskill in and connect to the new world of Gen.
+12:10
+AI, they would be being let go.
+Today we're going to talk about what was actually said, what it says about Accenture specifically, professional services more broadly, and perhaps most generally, and most importantly, the state of professional skills in general.
+So during last week's earnings call, tech outsourcing and consulting firm Accenture laid out plans to cut staff who aren't able to upskill on AI as part of a broader restructuring effort.
+12:33
+Here's the quote, which I'm actually including in its entirety.
+It's been mostly chopped up in other outlets, but CEO Julie Sweet said our number one strategy is upskilling, given the skills we need, and we've had a lot of experience in upskilling.
+We're trying to in a very compressed timeline where we don't have a viable path for skilling some sort of exiting people so we can get more of the skills and that we need.
+12:54
+A bit mumbly, but the point is that they're in the midst of a transition where everyone needs to be hip to this new set of Gen.
+AI tools they have.
+And for those they can't, they'll be saying goodbye.
+Around 11,000 employees have been quote UN quote exited over the past three months, added to another 10,000 in the previous quarter.
+Overall, Accenture is embarking on a six month restructuring process that will cost the firm around 865,000,000, with the vast majority of that amount related to severance payments, as well as Accenture divesting of two previously acquired companies.
+13:21
+Sweet said that they expect more AI related layoffs next quarter, but they also expect to overall increase headcount over the coming year as the company hire specifically focused on AI skills.
+Now this is not a company that's been tanking or anything like that.
+It may not be insane mag 7 rates, but the company did grow revenue 7% year over year up to just under 70 billion.
+13:43
+The reality is, is that from the ChatGPT moment, this company and basically all of professional services have just been in a race to adapt.
+So we told CNBC our early investment in AI is really paying off.
+We feel very good as we go into FY20 6 with the momentum we're seeing in our business, which is driven by Accenture being the company that you really need to partner to make sure you can use advanced AI.
+14:04
+Every CEO board in the C-Suite recognize that advanced AI is critical to the future.
+The challenge right now they're facing is that they're really excited about the technology and they're not yet AI ready for most companies.
+Sweet said that the company had successfully reskilled over 550,000 workers on AI, although what exactly that reskilling means isn't necessarily clear.
+14:23
+And during the earnings call, CFO Angie Park said we expect savings of over $1 billion from our business optimization program, which we will expect that we will reinvest in our business and in our people because it's so important for our future growth.
+And so we expect to reinvest that while still delivering modest margin expansion.
+14:39
+Now, there have been lots and lots of announcements at various points around layoffs and cutbacks, but this one really seemed to grab people's attention.
+Gabrielle Solomon Ramirez writes, this one should hit like cold water to the face.
+Wake up to the massive shift that will happen with AI.
+Even Ivy League NBA's are not immune to this.
+14:56
+Accenture quote warn staff that more would be asked to leave if they cannot be retrained for the age of artificial intelligence.
+O As I intimated at the beginning, I think that there are three ways to look at this.
+The first is what it says about Accenture secifically, the second is what it says about rofessional services more broadly, and the third is what it says about the state of skills generally.
+15:15
+So let's talk first about Accenture specifically.
+On the one hand, this company has benefited from generative AI as much as just about any other company out there.
+Their AI related bookings were nearly $9 billion over the last year.
+There was a while there, in fact, where they had made more money from Jen AI than anyone, including Open AI.
+15:32
+Now that of course has shifted, but they are still one of the big beneficiaries from a business model perspective from the advance of these new tools.
+On the flip side, there is a ton of skepticism out there.
+Back in July, The Economist posted Who needs Accenture in the age of AI?
+That piece pointed out that the market really is not buying Accenture's story.
+15:52
+Their stock price is in fact down 33% year to date, wrote The Economist after the company's Q2 earnings report.
+Having made a fortune telling others how to adapt to newfangled tech from the Internet to cloud computing, Accenture now faces the self same predicament in the age of generative artificial intelligence.
+16:08
+As semi autonomous Jen AI agent sweep the world, who needs consultants?
+And yes, the Economist points out quote.
+It is true that plenty of multinationals can make neither head nor tail of Gen.
+AI.
+Ask most managers about the relative virtues of Claude Sonnet 4 or Chat GPTO 3 and you get a blank stare.
+16:23
+Clearly some hand holding is in order.
+But they asked for how long?
+Back at the beginning of September, the Wall Street Journal published a piece called How the AI Boom is Leaving Consultants Behind.
+That piece began.
+Consulting firms over the past three years have wagered billions on the hope they would play an essential role in the AI boom, helping the world's largest corporations transform themselves with the new technology.
+16:43
+Done right, it could be a boon for an industry already hurting from macroeconomic pressures and layoffs.
+And in the early days, their pitch seemed to be working.
+But then the reality set in, the piece continues.
+Clients quickly encountered A mismatch between the pitch and what consultants could actually deliver.
+They found that consultants, who often had no more expertise on AI than they did internally, struggled to deploy use cases that created real business value.
+17:06
+Sometimes consultants build successful proof of concepts but couldn't scale them across the business, said Merck's chief information and digital officer Dave Williams.
+We love our partners, but often times they're learning on our dime.
+And this, by the way, is something I hear constantly.
+A number of times I've sat in on meetings between some of the big AI software providers and their customers.
+17:26
+And one of the big complaints is exactly this.
+That the GS is that the software companies have recommended to help with last mile integration don't really know all that much more than the enterprises who are buying the software, leading to this feeling of exactly this, the idea that they're being paid to be experts, but actually they're just still learning.
+17:44
+And part of that fact is just based on the structural reality that ultimately, there really aren't experts yet, per SE, They're just people with more experience than you, said Greg Myers, the chief digital and technology officer at Bristol-Myers Squibb.
+If I were to go hire a consultant to help me figure out how to use Gemini CLI or Quad Code, you're going to find a partner at one of the big Four has no more or less experience than a kid in college who tried to use it something.
+18:07
+The issue isn't that consultants don't have a role to play, is that the role that they're trying to play isn't a good fit, said Fiona Zurnowski, the CEO of Source Global Research.
+You've got a generation of CIOs that are going to be quite skeptical about consultants ability to deploy AI.
+The problem at the moment is that consulting firms have tried to put themselves at the cutting edge and it's not really where they belong.
+18:26
+So from where I'm sitting, there are some undeniable aspects of AI that are putting pressure on the business model of consultants.
+Yes, AI makes it more plausible for firms to do things for themselves that they previously hired professional services to do.
+AI also makes the cost calculus of low cost BPO style services look very different.
+18:43
+And that is, I think by the way, an important reminder that when it comes to Accenture, for example, about 44% of that company's revenue comes from strategy and consulting versus 56% from technology and managed services, which includes BPO.
+The biggest part of their global staff comes from 350,000 employees in India.
+19:00
+You've also got new types of firms that integrate technology directly and that provide actual hands on delivery in a way that software companies didn't before.
+Palantir's for deployed engineers have set the template now for how enterprise AI is getting built.
+And that's just creating a new wave of competition for the big GS IS.
+19:17
+But what about the reverse?
+There are certainly reasons to think the professional services has some really unique opportunities because of AI as well.
+Gen.
+AI, for example, represents this totally new set of skills that companies need to adapt, which is exactly the type of thing that historically they've called in consultants to help with.
+It's an entire transformation vector, one that is bigger and more extensible across the organization than just about anything we've seen.
+19:37
+And managing scale of that change is very much its own discipline, which is not necessarily a discipline that most companies have on their own.
+And not only are there an increasing demand for this new set of Gen.
+AI skills, these forces for change also put a huge premium on brand trust.
+19:53
+Boardrooms are absolutely frenetic right now and in uncharted waters.
+They want to make decisions that are seen as justifiable.
+Hiring one of the leading name brand big consulting and professional services firms is radically safer for those boardrooms than just trying to go it alone or trying to hire some young next generation firm.
+20:15
+My very brief, unfiltered take on the professional services landscape.
+I do think that many, if not most professional services firms are at least publicly overestimating or overstating their own AI capabilities, particularly their technical capabilities.
+I think they basically have to for market positioning.
+But it's also, as you heard from all of the quotes in that Wall Street Journal piece, kind of an open secret.
+20:35
+One of the areas that this becomes immensely clear in is any sort of last mile technology implementation and that by the way is creating an opportunity for a new generation of technology native firms like the tribes and fractionals of the world to win deals for that last mile deployment and implementation.
+I do think that when push comes to shove, the size of the deals available for the new contenders is to some extent capped because brand is an extraordinary leverage point right now.
+20:59
+And in fact, I think that brand Moat buy some serious time and space to have the actual capabilities match the rhetoric of the firms.
+I think behind the scenes, the firms all know this and the battle is, in fact, can they get better fast enough at all the new stuff that they can keep credibly commanding these big deals?
+21:15
+That's the context for all these announcements from Accenture about their reskilling, etcetera.
+It's the public side of the private race to stay ahead of their customers basically.
+They've got the change management skill set, they've got the brand.
+The question is how fast they can get the AI skills to actually make a dent in all these opportunities that AI seems to represent.
+21:33
+And that ultimately is why, even at the risk of having to report 11,000 layoffs over the quarter, a company like Accenture just has to put this priority on this new generation of AI skills.
+Ultimately then, I am not at all bearish on professional services, even from the big incumbents perspective.
+21:49
+But there is a lot of work to be done.
+And in addition to everything else I've just talked about, I think that there is absolutely an inevitable pricing tsunami coming.
+In short, I don't think big enterprise employers who have worked with the KPMG's and Accentures and Deloitte's and EY's of the world, they're all of a sudden going to abandon them and want to go it on their own.
+22:06
+But I think that they are going to increasingly demand more out of those AI deployments, especially as we move out of the proof of concept phase and into the deployment phase.
+I think that they're going to demand higher technical skill sets that are currently broadly available.
+And I think they're going to demand all of that at a price point that is very, very different than what is being charged today.
+22:24
+We'll probably dig into it more broadly at some point in the future, but CB Insights recently put out a survey called the Future of Professional Services and one of their four key strategic opportunities was turning services into scalable AI products.
+In other words, evolving from custom consulting engagements to platform based delivery, industry specific solutions and new pricing models.
+22:43
+We are of course living through one tiny little example of that with Super Intelligent where the sort of discovery work we do to help organizations plan AI and figure out what parts of their work are best suited for agents or other AI solutions.
+We use agents to do a discovery process at about 10 times the speed and at less than 1/10 of the cost of what comparable discovery would have looked like before now.
+23:02
+Luckily with us, we have great partnerships as the consulting firm because it turns out no one really ever wants to make money on discovery.
+No one is ever getting rehired because of how good their discovery did.
+Those costs are just the cost of doing business to get to the actual work where you can deliver good results.
+And so we naturally are a great partner and complement to these professional services firms.
+23:22
+But the reason that I bring it up is that it's emblematic of a process that so many different parts of professional services delivery will go through where someone, either the big professional services incumbents or some new startup is going to ask, could we do a thing that's being done now, but faster, cheaper, better by actually doing it with AI and agents as well.
+23:40
+Lastly, as I said, a final way to look at this whole story is in the context of the skills that are needed for enterprise employees more broadly.
+And I think honestly, that was some of the biggest reason that this Accenture news was flying around the interwebs.
+Bharatna writes what looks like cost cutting is in truth, skill reshaping.
+23:56
+The message is loud and clear.
+Either reskill into AI aligned roles or risk redundancy, he continues.
+The future of work will belong to those who evolved faster than the system.
+The hard truth?
+Job security no longer comes from the company you work for, it comes from the skills you bring to the table.
+24:12
+The good news if you were looking for it as an individual is that like I said before, I genuinely believe that the gap between the experts and the average has never been smaller.
+The reality is that these so-called experts right now are just the people who have put in the most time on task to learn these new systems.
+24:28
+Anytime there is a platform transition like we are living through, it creates a moment where a new class of so-called experts will be created and there is literally absolutely no reason that one of them can't be you.
+Given that you are here listening to the show, I have to assume that you are ahead of the curve and well on your way and I wish you nothing but the best for now.
+24:48
+That is going to do it for today's AI Daily Brief.
+Until next time, peace.

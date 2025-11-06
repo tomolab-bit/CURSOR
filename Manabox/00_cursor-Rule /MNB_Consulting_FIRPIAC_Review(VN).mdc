@@ -1,0 +1,300 @@
+# Khung FIRPIAC Độc Quyền Manabox (Phiên Bản Đánh Giá & Kiểm Tra)
+## Ứng Dụng Cấu Trúc "Trời-Mưa-Ô" của McKinsey vào Thực Tiễn Việt Nam
+
+### Tổng Quan
+Một phương pháp tiếp cận có cấu trúc để cung cấp các phản hồi khách quan và thực tiễn cho các câu hỏi của khách hàng. Đây là **Khung FIRPIAC Độc Quyền Manabox** (FACT→ISSUE→REGULATION→PRACTICE→IMPACT→ANALYSIS→CONCLUSION), được chuyên biệt hóa từ phương pháp tư duy "Trời-Mưa-Ô" của McKinsey cho thực tiễn thuế và pháp lý Việt Nam.
+
+**Cách sử dụng mdc này:**
+1. Dán văn bản hiện có (câu hỏi, câu trả lời, kết quả phân tích, v.v.)
+2. Hướng dẫn: "Vui lòng thực hiện đánh giá FIRPIAC"
+3. Nhận lời khuyên ngắn gọn về các khoảng trống và điểm cần cải thiện
+
+---
+
+## Khung FIRPIAC (C1~C7)
+
+### C1: FACT (Tổ Chức Sự Kiện)
+**Mục đích: Tổ chức các sự kiện khách quan bằng cách loại bỏ cảm xúc**
+
+**Sự Kiện Đã Xác Nhận**
+- Sự kiện 1: [Nội dung cụ thể]
+- Sự kiện 2: [Nội dung cụ thể]
+- Sự kiện 3: [Nội dung cụ thể]
+
+**Điểm Chưa Rõ và Các Mục Cần Xác Nhận**
+- Mục xác nhận 1
+- Mục xác nhận 2
+
+**Điểm Kiểm Tra C1:**
+- [ ] Sự kiện và suy đoán có được tách biệt không?
+- [ ] Biểu đạt cảm xúc có được loại bỏ không?
+- [ ] Các điểm chưa rõ có được ghi chép rõ ràng không?
+
+---
+
+### C2: ISSUE (Trích Xuất Vấn Đề)
+**Mục đích: Làm rõ các vấn đề pháp lý và thuế từ sự kiện**
+
+**Vấn Đề Chính**
+1. **Vấn đề 1**: [Vấn đề pháp lý/thuế cụ thể]
+   - Sự kiện liên quan: [Sự kiện liên quan]
+   - Mức độ quan trọng: Cao/Trung bình/Thấp
+
+2. **Vấn đề 2**: [Vấn đề pháp lý/thuế cụ thể]
+   - Sự kiện liên quan: [Sự kiện liên quan]
+   - Mức độ quan trọng: Cao/Trung bình/Thấp
+
+**Thứ Tự Ưu Tiên Vấn Đề**
+1. Ưu tiên cao nhất: [Tên vấn đề] - [Lý do]
+2. Ưu tiên tiếp theo: [Tên vấn đề] - [Lý do]
+
+**Điểm Kiểm Tra C2:**
+- [ ] Các vấn đề có cụ thể và có thể thực hiện không?
+- [ ] Mức độ quan trọng có được thiết lập phù hợp không?
+- [ ] Thứ tự ưu tiên có rõ ràng không?
+
+---
+
+### C3: REGULATION (Xác Nhận Quy Định)
+**Mục đích: Xác định và xác nhận các luật và quy định liên quan**
+
+**Danh Sách Quy Định Liên Quan**
+| Tên Quy Định | Điều | Tóm Tắt Nội Dung | Vấn Đề Áp Dụng |
+|---------------|------|------------------|----------------|
+| [Tên Quy Định] | [Điều] | [Tóm tắt] | [Vấn đề] |
+
+**Nội Dung Quy Định Chi Tiết**
+### [Tên Quy Định] Điều [Số Điều]
+- **Nội Dung Điều**: [Trích đoạn điều]
+- **Diễn Giải**: [Diễn giải thực tiễn]
+- **Điểm Cần Lưu Ý**: [Điểm quan trọng]
+
+**Mối Quan Hệ Giữa Các Quy Định**
+- Mối quan hệ giữa [Quy định A] và [Quy định B]: [Giải thích]
+- Thứ tự ưu tiên: [Cái nào được ưu tiên]
+
+**Điểm Kiểm Tra C3:**
+- [ ] Các sửa đổi quy định mới nhất có được phản ánh không?
+- [ ] Tất cả các quy định liên quan có được bao phủ không?
+- [ ] Mối quan hệ giữa các quy định có rõ ràng không?
+
+---
+
+### C4: PRACTICE (Xác Nhận Thực Tiễn)
+**Mục đích: Điều tra tình hình thực hiện thực tế và nghiên cứu trường hợp**
+
+**Thực Hiện của Cơ Quan Thuế**
+- **Xử lý**: [Phương pháp thực hiện cụ thể]
+- **Tiêu chí**: [Tiêu chí đánh giá]
+- **Ngoại lệ**: [Trường hợp ngoại lệ]
+
+**Nghiên Cứu Trường Hợp**
+| Công Ty | Tóm Tắt Trường Hợp | Kết Quả | Điểm Tham Khảo |
+|---------|-------------------|---------|----------------|
+| [Tên Công Ty] | [Tóm tắt] | [Kết quả] | [Điểm] |
+
+**Thư Chính Thức và Ý Kiến**
+- **Ngày Phát Hành**: [Ngày]
+- **Nội Dung**: [Tóm tắt ý kiến]
+- **Phạm Vi Áp Dụng**: [Phạm vi áp dụng]
+
+**Sự Khác Biệt Giữa Quy Định và Thực Tiễn**
+- **Điểm Khác Biệt**: [Sự khác biệt cụ thể]
+- **Phản Ứng Thực Tiễn**: [Phương pháp phản ứng thực tế]
+- **Rủi Ro**: [Rủi ro từ sự khác biệt]
+
+**Điểm Kiểm Tra C4:**
+- [ ] Sự khác biệt giữa quy định và thực tiễn có được hiểu chính xác không?
+- [ ] Các nghiên cứu trường hợp có được thu thập phù hợp không?
+- [ ] Ý kiến mới nhất của cơ quan thuế có được phản ánh không?
+
+---
+
+### C5: IMPACT (Đánh Giá Rủi Ro)
+**Mục đích: Đánh giá rủi ro sử dụng hai trục: tác động tài chính và khả năng xảy ra**
+
+**Ma Trận Đánh Giá Rủi Ro**
+| Mục Rủi Ro | Tác Động Tài Chính | Khả Năng Xảy Ra | Mức Độ Rủi Ro | Biện Pháp |
+|-------------|-------------------|-----------------|---------------|-----------|
+| [Rủi ro 1] | [Số tiền] | Cao/Trung bình/Thấp | 🔴/🟡/🟢 | [Biện pháp] |
+
+**Phân Tích Rủi Ro Chi Tiết**
+### [Tên Mục Rủi Ro]
+- **Tác Động Tài Chính**: [Số tiền cụ thể và căn cứ]
+- **Khả Năng Xảy Ra**: [Xác suất và căn cứ]
+- **Trường Hợp Xấu Nhất**: [Kịch bản xấu nhất]
+- **Trường Hợp Tốt Nhất**: [Kịch bản tốt nhất]
+- **Biện Pháp**: [Biện pháp cụ thể]
+
+**Thứ Tự Ưu Tiên Rủi Ro**
+1. **Quan Trọng Nhất**: [Tên rủi ro] - [Lý do]
+2. **Quan Trọng**: [Tên rủi ro] - [Lý do]
+3. **Nhỏ**: [Tên rủi ro] - [Lý do]
+
+**Điểm Kiểm Tra C5:**
+- [ ] Đánh giá rủi ro có thực tế và dựa trên bằng chứng không?
+- [ ] Tác động tài chính có được tính toán cụ thể không?
+- [ ] Khả năng xảy ra có được đánh giá phù hợp không?
+
+---
+
+### C6: ANALYSIS (Phân Tích và Áp Dụng)
+**Mục đích: Phân tích toàn diện quy định, thực tiễn và rủi ro để thực hiện áp dụng**
+
+**Phân Tích Toàn Diện**
+### Tính Nhất Quán Giữa Quy Định và Thực Tiễn
+- **Điểm Nhất Quán**: [Điểm đồng ý]
+- **Điểm Khác Biệt**: [Điểm khác biệt]
+- **Phản Ứng Thực Tiễn**: [Phương pháp phản ứng thực tế]
+
+### Đánh Giá Dựa Trên Đánh Giá Rủi Ro
+- **Mục Rủi Ro Cao**: [Phản ứng cụ thể]
+- **Mục Rủi Ro Trung Bình**: [Phản ứng cụ thể]
+- **Mục Rủi Ro Thấp**: [Phản ứng cụ thể]
+
+**So Sánh Lựa Chọn**
+| Lựa Chọn | Ưu Điểm | Nhược Điểm | Rủi Ro | Khuyến Nghị |
+|-----------|---------|------------|--------|-------------|
+| [Lựa chọn 1] | [Ưu điểm] | [Nhược điểm] | [Rủi ro] | Cao/Trung bình/Thấp |
+| [Lựa chọn 2] | [Ưu điểm] | [Nhược điểm] | [Rủi ro] | Cao/Trung bình/Thấp |
+
+**Đưa Ra Giải Pháp Tối Ưu**
+**Phản Ứng Khuyến Nghị**: [Phương pháp phản ứng cụ thể]
+**Lý Do**: [Lý do khuyến nghị]
+**Điều Kiện Tiên Quyết**: [Điều kiện tiên quyết]
+
+**Điểm Kiểm Tra C6:**
+- [ ] Phân tích có logic và thực tiễn không?
+- [ ] Các lựa chọn có được so sánh phù hợp không?
+- [ ] Căn cứ cho giải pháp tối ưu có rõ ràng không?
+
+---
+
+### C7: CONCLUSION (Kết Luận và Tư Vấn)
+**Mục đích: Trình bày kế hoạch hành động cụ thể**
+
+**Kết Luận**
+[Kết luận rõ ràng trong 1-2 câu]
+
+**Hành Động Khuyến Nghị**
+### Thực Hiện Ngay Lập Tức (Trong vòng 1 tuần)
+1. **[Hành động 1]**: [Nội dung cụ thể]
+   - Người chịu trách nhiệm: [Tên người chịu trách nhiệm]
+   - Thời hạn: [Thời hạn]
+   - Sản phẩm: [Sản phẩm]
+
+2. **[Hành động 2]**: [Nội dung cụ thể]
+   - Người chịu trách nhiệm: [Tên người chịu trách nhiệm]
+   - Thời hạn: [Thời hạn]
+   - Sản phẩm: [Sản phẩm]
+
+### Phản Ứng Ngắn Hạn (Trong vòng 1 tháng)
+1. **[Hành động 3]**: [Nội dung cụ thể]
+   - Người chịu trách nhiệm: [Tên người chịu trách nhiệm]
+   - Thời hạn: [Thời hạn]
+   - Sản phẩm: [Sản phẩm]
+
+### Phản Ứng Trung và Dài Hạn (Trong vòng 3 tháng)
+1. **[Hành động 4]**: [Nội dung cụ thể]
+   - Người chịu trách nhiệm: [Tên người chịu trách nhiệm]
+   - Thời hạn: [Thời hạn]
+   - Sản phẩm: [Sản phẩm]
+
+**Theo Dõi**
+- **Mục Xác Nhận**: [Mục cần xác nhận]
+- **Tư Vấn Tiếp Theo**: [Thời điểm tư vấn tiếp theo]
+- **Giám Sát Liên Tục**: [Mục cần giám sát liên tục]
+
+**Quản Lý Rủi Ro**
+- **Rủi Ro Liên Tục**: [Rủi ro cần chú ý liên tục]
+- **Biện Pháp**: [Biện pháp cụ thể]
+- **Tiêu Chí Escalation**: [Tiêu chí cần escalation]
+
+**Điểm Kiểm Tra C7:**
+- [ ] Các hành động có cụ thể và có thể thực hiện không?
+- [ ] Thời hạn và người chịu trách nhiệm có rõ ràng không?
+- [ ] Kế hoạch theo dõi có phù hợp không?
+
+---
+
+## Chức Năng Đánh Giá FIRPIAC
+
+### Phương Pháp Sử Dụng
+1. **Dán Văn Bản**: "Vui lòng đánh giá văn bản sau bằng khung FIRPIAC"
+2. **Thực Hiện Đánh Giá**: "Vui lòng cung cấp lời khuyên ngắn gọn về các khoảng trống và điểm cần cải thiện"
+
+### Điểm Đánh Giá
+- **C1**: Việc tổ chức sự kiện có phù hợp không?
+- **C2**: Việc trích xuất vấn đề có toàn diện không?
+- **C3**: Các quy định liên quan có được xác nhận không bỏ sót không?
+- **C4**: Việc thực hiện thực tiễn có được hiểu chính xác không?
+- **C5**: Đánh giá rủi ro có phù hợp không?
+- **C6**: Phân tích có logic không?
+- **C7**: Kế hoạch hành động có thể thực hiện không?
+
+### Định Dạng Lời Khuyên
+```
+## Kết Quả Đánh Giá FIRPIAC
+
+### ✅ Điểm Tốt
+- [Điểm tốt cụ thể]
+
+### ⚠️ Điểm Cần Cải Thiện
+- [Điểm cần cải thiện cụ thể]
+
+### 📝 Các Vấn Đề Bổ Sung Cần Xem Xét
+- [Thông tin thiếu]
+- [Các mục bổ sung cần xem xét]
+
+### 🎯 Hành Động Khuyến Nghị
+1. [Hành động cải thiện cụ thể]
+2. [Hành động cải thiện cụ thể]
+```
+
+---
+
+## Lưu Ý Sử Dụng
+
+### ✅ Đặc Điểm của Phản Hồi Tốt
+- Tách biệt rõ ràng giữa sự kiện và diễn giải
+- Xem xét cả quy định và thực tiễn
+- Trình bày số tiền và lịch trình cụ thể
+- Đánh giá rủi ro định lượng
+
+### ❌ Điểm Cần Tránh
+- Trộn lẫn sự kiện và suy đoán
+- Chỉ dựa vào quy định để đánh giá
+- Sử dụng biểu đạt mơ hồ
+- Bỏ qua đánh giá rủi ro
+
+### 📝 Cách Sử Dụng Mẫu
+1. Nhận câu hỏi từ khách hàng
+2. Thực hiện từng giai đoạn tuần tự từ C1
+3. Tạo sản phẩm tích hợp ở cuối
+4. Xác minh logic tổng thể
+
+### 🔄 Quản Lý Chất Lượng
+- Xem xét thông tin thiếu, giả định và phương án thay thế
+- Luôn nhận thức về điểm cần lưu ý rủi ro
+- Điều chỉnh mức độ giải thích theo hiểu biết của khách hàng
+
+---
+
+## Điểm Cần Lưu Ý về Rủi Ro
+- **Rủi Ro Pháp Lý**: Diễn giải sai quy định, chậm trễ phản ứng với sửa đổi
+- **Rủi Ro Thuế**: Thuế bổ sung, phát hiện trong kiểm tra thuế
+- **Rủi Ro Vận Hành**: Khác biệt với thực tiễn, tăng chi phí vận hành
+- **Rủi Ro Chi Phí**: Chi phí bổ sung, mất cơ hội
+- **Rủi Ro Con Người**: Hiểu biết không đủ của người chịu trách nhiệm, thiếu khả năng thực hiện
+- **Rủi Ro Tâm Lý/Xã Hội**: Lo lắng của khách hàng, tác động đến uy tín xã hội
+
+---
+
+## Lịch Sử Cập Nhật
+- Tháng 10 năm 2024: Tạo phiên bản đầu tiên
+- Tháng 10 năm 2024: Phiên bản cải tiến dựa trên thiết kế prompt dựa trên lệnh
+- Tháng 12 năm 2024: Phiên bản chức năng đánh giá & kiểm tra
+
+---
+
+*Khung này là một sự thích ứng chuyên biệt của phương pháp tư duy "Trời-Mưa-Ô" của McKinsey cho thực tiễn thuế và pháp lý Việt Nam, kết hợp triết lý thiết kế prompt dựa trên lệnh.*

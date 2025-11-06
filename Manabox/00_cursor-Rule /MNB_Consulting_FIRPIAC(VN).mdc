@@ -1,0 +1,329 @@
+# Khung Tư Vấn FIRPIAC Độc Quyền Manabox
+## Ứng Dụng Cấu Trúc "Trời-Mưa-Ô" của McKinsey vào Thực Tiễn Việt Nam
+
+### Tổng Quan
+Một phương pháp tiếp cận có cấu trúc để cung cấp các phản hồi khách quan và thực tiễn cho các câu hỏi của khách hàng. Đây là **Khung FIRPIAC Độc Quyền Manabox** (FACT→ISSUE→REGULATION→PRACTICE→IMPACT→ANALYSIS→CONCLUSION), được chuyên biệt hóa từ phương pháp tư duy "Trời-Mưa-Ô" của McKinsey cho thực tiễn thuế và pháp lý Việt Nam.
+
+### Thiết Kế Prompt Dựa Trên Lệnh
+Khung này tích hợp quy trình xác minh từng bước, đảm bảo chất lượng bằng cách chờ xác nhận của người dùng ở mỗi giai đoạn.
+
+---
+
+## Cấu Hình Giai Đoạn (C1~C7)
+
+### C1: FACT (Tổ Chức Sự Kiện)
+**Mục đích: Tổ chức các sự kiện khách quan bằng cách loại bỏ cảm xúc**
+**Đầu vào: Câu hỏi và báo cáo của khách hàng**
+**Nhiệm vụ: Trích xuất và tổ chức sự kiện**
+**Điểm xác minh: Đảm bảo không có suy đoán hoặc diễn giải nào được bao gồm**
+**Mẫu Đầu ra:**
+```
+# C1: Tổ Chức Sự Kiện
+
+## Sự Kiện Đã Xác Nhận
+- [ ] Sự kiện 1: [Nội dung cụ thể]
+- [ ] Sự kiện 2: [Nội dung cụ thể]
+- [ ] Sự kiện 3: [Nội dung cụ thể]
+
+## Điểm Chưa Rõ và Các Mục Cần Xác Nhận
+- [ ] Mục xác nhận 1
+- [ ] Mục xác nhận 2
+
+## Bước Tiếp Theo
+Trước khi tiến đến C2: Trích Xuất Vấn Đề, vui lòng xác nhận tính chính xác của các sự kiện trên.
+```
+**Dừng ở đây và chờ xác nhận của người dùng**
+
+---
+
+### C2: ISSUE (Trích Xuất Vấn Đề)
+**Mục đích: Làm rõ các vấn đề pháp lý và thuế từ sự kiện**
+**Đầu vào: Sự kiện đã xác nhận trong C1**
+**Nhiệm vụ: Xác định vấn đề và ưu tiên hóa chúng**
+**Điểm xác minh: Đảm bảo vấn đề cụ thể và có thể thực hiện**
+**Mẫu Đầu ra:**
+```
+# C2: Trích Xuất Vấn Đề
+
+## Vấn Đề Chính
+1. **Vấn đề 1**: [Vấn đề pháp lý/thuế cụ thể]
+   - Sự kiện liên quan: [Sự kiện liên quan]
+   - Mức độ quan trọng: Cao/Trung bình/Thấp
+
+2. **Vấn đề 2**: [Vấn đề pháp lý/thuế cụ thể]
+   - Sự kiện liên quan: [Sự kiện liên quan]
+   - Mức độ quan trọng: Cao/Trung bình/Thấp
+
+## Thứ Tự Ưu Tiên Vấn Đề
+1. Ưu tiên cao nhất: [Tên vấn đề] - [Lý do]
+2. Ưu tiên tiếp theo: [Tên vấn đề] - [Lý do]
+
+## Bước Tiếp Theo
+Trước khi tiến đến C3: Xác Nhận Quy Định, vui lòng xác nhận tính hợp lệ của các vấn đề trên.
+```
+**Dừng ở đây và chờ xác nhận của người dùng**
+
+---
+
+### C3: REGULATION (Xác Nhận Quy Định)
+**Mục đích: Xác định và xác nhận các luật và quy định liên quan**
+**Đầu vào: Vấn đề đã xác định trong C2**
+**Nhiệm vụ: Nghiên cứu và xác nhận quy định liên quan**
+**Điểm xác minh: Đảm bảo các sửa đổi quy định mới nhất được phản ánh**
+**Mẫu Đầu ra:**
+```
+# C3: Xác Nhận Quy Định
+
+## Danh Sách Quy Định Liên Quan
+| Tên Quy Định | Điều | Tóm Tắt Nội Dung | Vấn Đề Áp Dụng |
+|---------------|------|------------------|----------------|
+| [Tên Quy Định] | [Điều] | [Tóm tắt] | [Vấn đề] |
+
+## Nội Dung Quy Định Chi Tiết
+### [Tên Quy Định] Điều [Số Điều]
+- **Nội Dung Điều**: [Trích đoạn điều]
+- **Diễn Giải**: [Diễn giải thực tiễn]
+- **Điểm Cần Lưu Ý**: [Điểm quan trọng]
+
+## Mối Quan Hệ Giữa Các Quy Định
+- Mối quan hệ giữa [Quy định A] và [Quy định B]: [Giải thích]
+- Thứ tự ưu tiên: [Cái nào được ưu tiên]
+
+## Bước Tiếp Theo
+Trước khi tiến đến C4: Xác Nhận Thực Tiễn, vui lòng xác nhận tính chính xác của các quy định trên.
+```
+**Dừng ở đây và chờ xác nhận của người dùng**
+
+---
+
+### C4: PRACTICE (Xác Nhận Thực Tiễn)
+**Mục đích: Điều tra tình hình thực hiện thực tế và nghiên cứu trường hợp**
+**Đầu vào: Nội dung quy định đã xác nhận trong C3**
+**Nhiệm vụ: Điều tra thực hiện thực tiễn và thu thập nghiên cứu trường hợp**
+**Điểm xác minh: Hiểu chính xác sự khác biệt giữa quy định và thực tiễn**
+**Mẫu Đầu ra:**
+```
+# C4: Xác Nhận Thực Tiễn
+
+## Thực Hiện của Cơ Quan Thuế
+- **Xử lý**: [Phương pháp thực hiện cụ thể]
+- **Tiêu chí**: [Tiêu chí đánh giá]
+- **Ngoại lệ**: [Trường hợp ngoại lệ]
+
+## Nghiên Cứu Trường Hợp
+| Công Ty | Tóm Tắt Trường Hợp | Kết Quả | Điểm Tham Khảo |
+|---------|-------------------|---------|----------------|
+| [Tên Công Ty] | [Tóm tắt] | [Kết quả] | [Điểm] |
+
+## Thư Chính Thức và Ý Kiến
+- **Ngày Phát Hành**: [Ngày]
+- **Nội Dung**: [Tóm tắt ý kiến]
+- **Phạm Vi Áp Dụng**: [Phạm vi áp dụng]
+
+## Sự Khác Biệt Giữa Quy Định và Thực Tiễn
+- **Điểm Khác Biệt**: [Sự khác biệt cụ thể]
+- **Phản Ứng Thực Tiễn**: [Phương pháp phản ứng thực tế]
+- **Rủi Ro**: [Rủi ro từ sự khác biệt]
+
+## Bước Tiếp Theo
+Trước khi tiến đến C5: Đánh Giá Rủi Ro, vui lòng xác nhận tính hợp lệ của thông tin thực tiễn trên.
+```
+**Dừng ở đây và chờ xác nhận của người dùng**
+
+---
+
+### C5: IMPACT (Đánh Giá Rủi Ro)
+**Mục đích: Đánh giá rủi ro sử dụng hai trục: tác động tài chính và khả năng xảy ra**
+**Đầu vào: Thông tin thực tiễn đã xác nhận trong C4**
+**Nhiệm vụ: Định lượng và đánh giá rủi ro**
+**Điểm xác minh: Đảm bảo đánh giá rủi ro thực tế và dựa trên bằng chứng**
+**Mẫu Đầu ra:**
+```
+# C5: Đánh Giá Rủi Ro
+
+## Ma Trận Đánh Giá Rủi Ro
+| Mục Rủi Ro | Tác Động Tài Chính | Khả Năng Xảy Ra | Mức Độ Rủi Ro | Biện Pháp |
+|-------------|-------------------|-----------------|---------------|-----------|
+| [Rủi ro 1] | [Số tiền] | Cao/Trung bình/Thấp | 🔴/🟡/🟢 | [Biện pháp] |
+
+## Phân Tích Rủi Ro Chi Tiết
+### [Tên Mục Rủi Ro]
+- **Tác Động Tài Chính**: [Số tiền cụ thể và căn cứ]
+- **Khả Năng Xảy Ra**: [Xác suất và căn cứ]
+- **Trường Hợp Xấu Nhất**: [Kịch bản xấu nhất]
+- **Trường Hợp Tốt Nhất**: [Kịch bản tốt nhất]
+- **Biện Pháp**: [Biện pháp cụ thể]
+
+## Thứ Tự Ưu Tiên Rủi Ro
+1. **Quan Trọng Nhất**: [Tên rủi ro] - [Lý do]
+2. **Quan Trọng**: [Tên rủi ro] - [Lý do]
+3. **Nhỏ**: [Tên rủi ro] - [Lý do]
+
+## Bước Tiếp Theo
+Trước khi tiến đến C6: Phân Tích và Áp Dụng, vui lòng xác nhận tính hợp lệ của đánh giá rủi ro trên.
+```
+**Dừng ở đây và chờ xác nhận của người dùng**
+
+---
+
+### C6: ANALYSIS (Phân Tích và Áp Dụng)
+**Mục đích: Phân tích toàn diện quy định, thực tiễn và rủi ro để thực hiện áp dụng**
+**Đầu vào: Thông tin rủi ro đã đánh giá trong C5**
+**Nhiệm vụ: Phân tích toàn diện và đưa ra giải pháp tối ưu**
+**Điểm xác minh: Đảm bảo phân tích logic và thực tiễn**
+**Mẫu Đầu ra:**
+```
+# C6: Phân Tích và Áp Dụng
+
+## Phân Tích Toàn Diện
+### Tính Nhất Quán Giữa Quy Định và Thực Tiễn
+- **Điểm Nhất Quán**: [Điểm đồng ý]
+- **Điểm Khác Biệt**: [Điểm khác biệt]
+- **Phản Ứng Thực Tiễn**: [Phương pháp phản ứng thực tế]
+
+### Đánh Giá Dựa Trên Đánh Giá Rủi Ro
+- **Mục Rủi Ro Cao**: [Phản ứng cụ thể]
+- **Mục Rủi Ro Trung Bình**: [Phản ứng cụ thể]
+- **Mục Rủi Ro Thấp**: [Phản ứng cụ thể]
+
+## So Sánh Lựa Chọn
+| Lựa Chọn | Ưu Điểm | Nhược Điểm | Rủi Ro | Khuyến Nghị |
+|-----------|---------|------------|--------|-------------|
+| [Lựa chọn 1] | [Ưu điểm] | [Nhược điểm] | [Rủi ro] | Cao/Trung bình/Thấp |
+| [Lựa chọn 2] | [Ưu điểm] | [Nhược điểm] | [Rủi ro] | Cao/Trung bình/Thấp |
+
+## Đưa Ra Giải Pháp Tối Ưu
+**Phản Ứng Khuyến Nghị**: [Phương pháp phản ứng cụ thể]
+**Lý Do**: [Lý do khuyến nghị]
+**Điều Kiện Tiên Quyết**: [Điều kiện tiên quyết]
+
+## Bước Tiếp Theo
+Trước khi tiến đến C7: Kết Luận và Tư Vấn, vui lòng xác nhận tính hợp lệ của phân tích trên.
+```
+**Dừng ở đây và chờ xác nhận của người dùng**
+
+---
+
+### C7: CONCLUSION (Kết Luận và Tư Vấn)
+**Mục đích: Trình bày kế hoạch hành động cụ thể**
+**Đầu vào: Giải pháp tối ưu đã đưa ra trong C6**
+**Nhiệm vụ: Phát triển kế hoạch hành động có thể thực hiện**
+**Điểm xác minh: Đảm bảo hành động cụ thể và có thể thực hiện**
+**Mẫu Đầu ra:**
+```
+# C7: Kết Luận và Tư Vấn
+
+## Kết Luận
+[Kết luận rõ ràng trong 1-2 câu]
+
+## Hành Động Khuyến Nghị
+### Thực Hiện Ngay Lập Tức (Trong vòng 1 tuần)
+1. **[Hành động 1]**: [Nội dung cụ thể]
+   - Người chịu trách nhiệm: [Tên người chịu trách nhiệm]
+   - Thời hạn: [Thời hạn]
+   - Sản phẩm: [Sản phẩm]
+
+2. **[Hành động 2]**: [Nội dung cụ thể]
+   - Người chịu trách nhiệm: [Tên người chịu trách nhiệm]
+   - Thời hạn: [Thời hạn]
+   - Sản phẩm: [Sản phẩm]
+
+### Phản Ứng Ngắn Hạn (Trong vòng 1 tháng)
+1. **[Hành động 3]**: [Nội dung cụ thể]
+   - Người chịu trách nhiệm: [Tên người chịu trách nhiệm]
+   - Thời hạn: [Thời hạn]
+   - Sản phẩm: [Sản phẩm]
+
+### Phản Ứng Trung và Dài Hạn (Trong vòng 3 tháng)
+1. **[Hành động 4]**: [Nội dung cụ thể]
+   - Người chịu trách nhiệm: [Tên người chịu trách nhiệm]
+   - Thời hạn: [Thời hạn]
+   - Sản phẩm: [Sản phẩm]
+
+## Theo Dõi
+- **Mục Xác Nhận**: [Mục cần xác nhận]
+- **Tư Vấn Tiếp Theo**: [Thời điểm tư vấn tiếp theo]
+- **Giám Sát Liên Tục**: [Mục cần giám sát liên tục]
+
+## Quản Lý Rủi Ro
+- **Rủi Ro Liên Tục**: [Rủi ro cần chú ý liên tục]
+- **Biện Pháp**: [Biện pháp cụ thể]
+- **Tiêu Chí Escalation**: [Tiêu chí cần escalation]
+
+## Xác Nhận Cuối Cùng
+Vui lòng xác nhận tính khả thi và thứ tự ưu tiên của kế hoạch hành động trên.
+```
+**Dừng ở đây và chờ xác nhận của người dùng**
+
+---
+
+## Tạo Sản Phẩm Tích Hợp
+**Giai Đoạn Cuối: Tạo sản phẩm định dạng Markdown tích hợp kết hợp C1~C7**
+
+### Thông Tin Thiếu
+- Đặc điểm ngành của khách hàng
+- Trường hợp tương tự trong quá khứ
+- Ràng buộc nguồn lực nội bộ
+- Ràng buộc ngân sách và lịch trình
+
+### Giả Định
+- Tuân thủ quy định và thực tiễn Việt Nam
+- Mức độ giải thích phù hợp với hiểu biết của khách hàng
+- Trình bày giải pháp thực tiễn
+- Chú trọng quản lý rủi ro
+
+### Phương Án Thay Thế
+- Phương pháp tiếp cận từng giai đoạn (giảm rủi ro từng bước)
+- Tư vấn với chuyên gia bên ngoài
+- Tư vấn trước với cơ quan thuế
+- Điều tra chi tiết trường hợp của các công ty khác
+
+### Điểm Cần Lưu Ý về Rủi Ro
+- **Rủi Ro Pháp Lý**: Diễn giải sai quy định, chậm trễ phản ứng với sửa đổi
+- **Rủi Ro Thuế**: Thuế bổ sung, phát hiện trong kiểm tra thuế
+- **Rủi Ro Vận Hành**: Khác biệt với thực tiễn, tăng chi phí vận hành
+- **Rủi Ro Chi Phí**: Chi phí bổ sung, mất cơ hội
+- **Rủi Ro Con Người**: Hiểu biết không đủ của người chịu trách nhiệm, thiếu khả năng thực hiện
+- **Rủi Ro Tâm Lý/Xã Hội**: Lo lắng của khách hàng, tác động đến uy tín xã hội
+
+---
+
+## Lưu Ý Sử Dụng
+
+### ✅ Đặc Điểm của Phản Hồi Tốt
+- Quy trình xác nhận kỹ lưỡng ở mỗi giai đoạn
+- Tách biệt rõ ràng giữa sự kiện và diễn giải
+- Xem xét cả quy định và thực tiễn
+- Trình bày số tiền và lịch trình cụ thể
+- Đánh giá rủi ro định lượng
+
+### ❌ Điểm Cần Tránh
+- Bỏ qua các giai đoạn
+- Trộn lẫn sự kiện và suy đoán
+- Chỉ dựa vào quy định để đánh giá
+- Sử dụng biểu đạt mơ hồ
+- Bỏ qua đánh giá rủi ro
+
+### 📝 Cách Sử Dụng Mẫu
+1. Nhận câu hỏi từ khách hàng
+2. Thực hiện từng giai đoạn tuần tự từ C1
+3. Chờ xác nhận của người dùng ở mỗi giai đoạn
+4. Tạo sản phẩm tích hợp ở cuối
+5. Xác minh logic tổng thể
+
+### 🔄 Quản Lý Chất Lượng
+- Luôn xác minh điểm xác minh ở mỗi giai đoạn
+- Xem xét thông tin thiếu, giả định và phương án thay thế
+- Luôn nhận thức về điểm cần lưu ý rủi ro
+- Điều chỉnh mức độ giải thích theo hiểu biết của khách hàng
+
+---
+
+## Lịch Sử Cập Nhật
+- Tháng 10 năm 2024: Tạo phiên bản đầu tiên
+- Tháng 10 năm 2024: Phiên bản cải tiến dựa trên thiết kế prompt dựa trên lệnh
+- Thiết lập như khung "Trời-Mưa-Ô" của Manabox
+
+---
+
+*Khung này là một sự thích ứng chuyên biệt của phương pháp tư duy "Trời-Mưa-Ô" của McKinsey cho thực tiễn thuế và pháp lý Việt Nam, kết hợp triết lý thiết kế prompt dựa trên lệnh.*

@@ -1,0 +1,329 @@
+# Manabox Original FIRPIAC Framework
+## Applying McKinsey's "Sky-Rain-Umbrella" Structure to Vietnamese Practice
+
+### Overview
+A structured approach to provide objective and practical responses to customer inquiries. This is the **Manabox Original FIRPIAC Framework** (FACT→ISSUE→REGULATION→PRACTICE→IMPACT→ANALYSIS→CONCLUSION), which is a specialized adaptation of McKinsey's "Sky-Rain-Umbrella" thinking method for Vietnamese tax and legal practice.
+
+### Command-Based Prompt Design
+This framework incorporates a step-by-step verification process, ensuring quality by waiting for user confirmation at each stage.
+
+---
+
+## Stage Configuration (C1~C7)
+
+### C1: FACT (Fact Organization)
+**Purpose: Organize objective facts by eliminating emotions**
+**Input: Customer questions and reports**
+**Task: Extract and organize facts**
+**Verification Points: Ensure no speculation or interpretation is included**
+**Output Template:**
+```
+# C1: Fact Organization
+
+## Confirmed Facts
+- [ ] Fact 1: [Specific content]
+- [ ] Fact 2: [Specific content]
+- [ ] Fact 3: [Specific content]
+
+## Unknown Points and Items Requiring Confirmation
+- [ ] Confirmation item 1
+- [ ] Confirmation item 2
+
+## Next Steps
+Before proceeding to C2: Issue Extraction, please confirm the accuracy of the above facts.
+```
+**Stop here and wait for user confirmation**
+
+---
+
+### C2: ISSUE (Issue Extraction)
+**Purpose: Clarify legal and tax issues from facts**
+**Input: Facts confirmed in C1**
+**Task: Identify issues and prioritize them**
+**Verification Points: Ensure issues are specific and actionable**
+**Output Template:**
+```
+# C2: Issue Extraction
+
+## Main Issues
+1. **Issue 1**: [Specific legal/tax problem]
+   - Related facts: [Relevant facts]
+   - Importance: High/Medium/Low
+
+2. **Issue 2**: [Specific legal/tax problem]
+   - Related facts: [Relevant facts]
+   - Importance: High/Medium/Low
+
+## Issue Priority
+1. Highest priority: [Issue name] - [Reason]
+2. Next priority: [Issue name] - [Reason]
+
+## Next Steps
+Before proceeding to C3: Regulation Confirmation, please confirm the validity of the above issues.
+```
+**Stop here and wait for user confirmation**
+
+---
+
+### C3: REGULATION (Regulation Confirmation)
+**Purpose: Identify and confirm relevant laws and regulations**
+**Input: Issues identified in C2**
+**Task: Research and confirm relevant regulations**
+**Verification Points: Ensure latest regulatory amendments are reflected**
+**Output Template:**
+```
+# C3: Regulation Confirmation
+
+## Related Regulations List
+| Regulation Name | Article | Content Summary | Applicable Issue |
+|-----------------|---------|-----------------|------------------|
+| [Regulation Name] | [Article] | [Summary] | [Issue] |
+
+## Detailed Regulation Content
+### [Regulation Name] Article [Article Number]
+- **Article Content**: [Excerpt of article]
+- **Interpretation**: [Practical interpretation]
+- **Points to Note**: [Important points]
+
+## Relationship Between Regulations
+- Relationship between [Regulation A] and [Regulation B]: [Explanation]
+- Priority: [Which takes precedence]
+
+## Next Steps
+Before proceeding to C4: Practice Confirmation, please confirm the accuracy of the above regulations.
+```
+**Stop here and wait for user confirmation**
+
+---
+
+### C4: PRACTICE (Practice Confirmation)
+**Purpose: Investigate actual implementation and case studies**
+**Input: Regulation content confirmed in C3**
+**Task: Investigate practical implementation and collect case studies**
+**Verification Points: Accurately understand discrepancies between regulations and practice**
+**Output Template:**
+```
+# C4: Practice Confirmation
+
+## Tax Authority Implementation
+- **Handling**: [Specific implementation method]
+- **Criteria**: [Judgment criteria]
+- **Exceptions**: [Exception cases]
+
+## Case Studies
+| Company | Case Summary | Result | Reference Points |
+|---------|--------------|--------|------------------|
+| [Company Name] | [Summary] | [Result] | [Points] |
+
+## Official Letters and Opinions
+- **Issue Date**: [Date]
+- **Content**: [Opinion summary]
+- **Applicable Scope**: [Applicable scope]
+
+## Discrepancies Between Regulations and Practice
+- **Discrepancy Points**: [Specific differences]
+- **Practical Response**: [Actual response method]
+- **Risk**: [Risk from discrepancies]
+
+## Next Steps
+Before proceeding to C5: Risk Assessment, please confirm the validity of the above practice information.
+```
+**Stop here and wait for user confirmation**
+
+---
+
+### C5: IMPACT (Risk Assessment)
+**Purpose: Assess risks using two axes: financial impact and probability**
+**Input: Practice information confirmed in C4**
+**Task: Quantify and assess risks**
+**Verification Points: Ensure risk assessment is realistic and evidence-based**
+**Output Template:**
+```
+# C5: Risk Assessment
+
+## Risk Assessment Matrix
+| Risk Item | Financial Impact | Probability | Risk Level | Countermeasures |
+|-----------|------------------|-------------|------------|-----------------|
+| [Risk 1] | [Amount] | High/Medium/Low | 🔴/🟡/🟢 | [Countermeasures] |
+
+## Detailed Risk Analysis
+### [Risk Item Name]
+- **Financial Impact**: [Specific amount and basis]
+- **Probability**: [Probability and basis]
+- **Worst Case**: [Worst scenario]
+- **Best Case**: [Best scenario]
+- **Countermeasures**: [Specific countermeasures]
+
+## Risk Priority
+1. **Most Critical**: [Risk name] - [Reason]
+2. **Important**: [Risk name] - [Reason]
+3. **Minor**: [Risk name] - [Reason]
+
+## Next Steps
+Before proceeding to C6: Analysis and Application, please confirm the validity of the above risk assessment.
+```
+**Stop here and wait for user confirmation**
+
+---
+
+### C6: ANALYSIS (Analysis and Application)
+**Purpose: Comprehensively analyze regulations, practice, and risks to perform application**
+**Input: Risk information assessed in C5**
+**Task: Comprehensive analysis and derive optimal solutions**
+**Verification Points: Ensure analysis is logical and practical**
+**Output Template:**
+```
+# C6: Analysis and Application
+
+## Comprehensive Analysis
+### Consistency Between Regulations and Practice
+- **Consistent Points**: [Points of agreement]
+- **Discrepancy Points**: [Points of difference]
+- **Practical Response**: [Actual response method]
+
+### Judgment Based on Risk Assessment
+- **High Risk Items**: [Specific response]
+- **Medium Risk Items**: [Specific response]
+- **Low Risk Items**: [Specific response]
+
+## Option Comparison
+| Option | Advantages | Disadvantages | Risk | Recommendation |
+|--------|------------|---------------|------|-----------------|
+| [Option 1] | [Advantages] | [Disadvantages] | [Risk] | High/Medium/Low |
+| [Option 2] | [Advantages] | [Disadvantages] | [Risk] | High/Medium/Low |
+
+## Optimal Solution Derivation
+**Recommended Response**: [Specific response method]
+**Reason**: [Reason for recommendation]
+**Prerequisites**: [Prerequisite conditions]
+
+## Next Steps
+Before proceeding to C7: Conclusion and Advice, please confirm the validity of the above analysis.
+```
+**Stop here and wait for user confirmation**
+
+---
+
+### C7: CONCLUSION (Conclusion and Advice)
+**Purpose: Present specific action plans**
+**Input: Optimal solutions derived in C6**
+**Task: Develop executable action plans**
+**Verification Points: Ensure actions are specific and executable**
+**Output Template:**
+```
+# C7: Conclusion and Advice
+
+## Conclusion
+[Clear conclusion in 1-2 sentences]
+
+## Recommended Actions
+### Immediate Execution (Within 1 week)
+1. **[Action 1]**: [Specific content]
+   - Responsible: [Responsible person]
+   - Deadline: [Deadline]
+   - Deliverable: [Deliverable]
+
+2. **[Action 2]**: [Specific content]
+   - Responsible: [Responsible person]
+   - Deadline: [Deadline]
+   - Deliverable: [Deliverable]
+
+### Short-term Response (Within 1 month)
+1. **[Action 3]**: [Specific content]
+   - Responsible: [Responsible person]
+   - Deadline: [Deadline]
+   - Deliverable: [Deliverable]
+
+### Medium to Long-term Response (Within 3 months)
+1. **[Action 4]**: [Specific content]
+   - Responsible: [Responsible person]
+   - Deadline: [Deadline]
+   - Deliverable: [Deliverable]
+
+## Follow-up
+- **Confirmation Items**: [Items requiring confirmation]
+- **Next Consultation**: [Timing for next consultation]
+- **Continuous Monitoring**: [Items requiring continuous monitoring]
+
+## Risk Management
+- **Continuous Risk**: [Risks requiring continuous attention]
+- **Countermeasures**: [Specific countermeasures]
+- **Escalation Criteria**: [Criteria requiring escalation]
+
+## Final Confirmation
+Please confirm the feasibility and priority of the above action plan.
+```
+**Stop here and wait for user confirmation**
+
+---
+
+## Integrated Deliverable Generation
+**Final Stage: Generate integrated Markdown format deliverables combining C1~C7**
+
+### Missing Information
+- Customer industry characteristics
+- Past similar cases
+- Internal resource constraints
+- Budget and schedule constraints
+
+### Assumptions
+- Compliance with Vietnamese regulations and practice
+- Explanation level appropriate to customer understanding
+- Presentation of practical solutions
+- Emphasis on risk management
+
+### Alternatives
+- Phased approach (gradually reducing risks)
+- Consultation with external experts
+- Prior consultation with tax authorities
+- Detailed investigation of other companies' cases
+
+### Risk Considerations
+- **Legal Risk**: Misinterpretation of regulations, delayed response to amendments
+- **Tax Risk**: Additional tax assessments, tax audit findings
+- **Operational Risk**: Discrepancies with practice, increased operational costs
+- **Cost Risk**: Additional expenses, opportunity loss
+- **Human Risk**: Insufficient understanding by responsible persons, lack of execution capability
+- **Psychological/Social Risk**: Customer anxiety, impact on social credibility
+
+---
+
+## Usage Notes
+
+### ✅ Characteristics of Good Responses
+- Thorough confirmation process at each stage
+- Clear separation of facts and interpretation
+- Consideration of both regulations and practice
+- Presentation of specific amounts and schedules
+- Quantitative risk assessment
+
+### ❌ Points to Avoid
+- Skipping stages
+- Mixing facts and speculation
+- Relying only on regulations for judgment
+- Using ambiguous expressions
+- Omitting risk assessment
+
+### 📝 Template Usage
+1. Receive customer questions
+2. Execute each stage sequentially from C1
+3. Wait for user confirmation at each stage
+4. Generate integrated deliverables at the end
+5. Verify overall logic
+
+### 🔄 Quality Management
+- Always verify verification points at each stage
+- Consider missing information, assumptions, and alternatives
+- Always be aware of risk considerations
+- Adjust explanation level according to customer understanding
+
+---
+
+## Update History
+- October 2024: Initial version created
+- October 2024: Improved version based on command-based prompt design
+- Established as Manabox "Sky-Rain-Umbrella" framework
+
+---
+
+*This framework is a specialized adaptation of McKinsey's "Sky-Rain-Umbrella" thinking method for Vietnamese tax and legal practice, incorporating the philosophy of command-based prompt design.*

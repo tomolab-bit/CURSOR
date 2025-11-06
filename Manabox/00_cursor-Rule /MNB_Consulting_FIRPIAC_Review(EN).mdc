@@ -1,0 +1,300 @@
+# Manabox Original FIRPIAC Framework (Review & Check Version)
+## Applying McKinsey's "Sky-Rain-Umbrella" Structure to Vietnamese Practice
+
+### Overview
+A structured approach to provide objective and practical responses to customer inquiries. This is the **Manabox Original FIRPIAC Framework** (FACT→ISSUE→REGULATION→PRACTICE→IMPACT→ANALYSIS→CONCLUSION), which is a specialized adaptation of McKinsey's "Sky-Rain-Umbrella" thinking method for Vietnamese tax and legal practice.
+
+**How to use this mdc:**
+1. Paste existing text (questions, answers, analysis results, etc.)
+2. Instruct: "Please execute FIRPIAC review"
+3. Receive concise advice on gaps and improvement points
+
+---
+
+## FIRPIAC Framework (C1~C7)
+
+### C1: FACT (Fact Organization)
+**Purpose: Organize objective facts by eliminating emotions**
+
+**Confirmed Facts**
+- Fact 1: [Specific content]
+- Fact 2: [Specific content]
+- Fact 3: [Specific content]
+
+**Unknown Points and Items Requiring Confirmation**
+- Confirmation item 1
+- Confirmation item 2
+
+**C1 Checkpoints:**
+- [ ] Are facts and speculation separated?
+- [ ] Are emotional expressions eliminated?
+- [ ] Are unknown points clearly documented?
+
+---
+
+### C2: ISSUE (Issue Extraction)
+**Purpose: Clarify legal and tax issues from facts**
+
+**Main Issues**
+1. **Issue 1**: [Specific legal/tax problem]
+   - Related facts: [Relevant facts]
+   - Importance: High/Medium/Low
+
+2. **Issue 2**: [Specific legal/tax problem]
+   - Related facts: [Relevant facts]
+   - Importance: High/Medium/Low
+
+**Issue Priority**
+1. Highest priority: [Issue name] - [Reason]
+2. Next priority: [Issue name] - [Reason]
+
+**C2 Checkpoints:**
+- [ ] Are issues specific and actionable?
+- [ ] Is importance appropriately set?
+- [ ] Is priority clear?
+
+---
+
+### C3: REGULATION (Regulation Confirmation)
+**Purpose: Identify and confirm relevant laws and regulations**
+
+**Related Regulations List**
+| Regulation Name | Article | Content Summary | Applicable Issue |
+|-----------------|---------|-----------------|------------------|
+| [Regulation Name] | [Article] | [Summary] | [Issue] |
+
+**Detailed Regulation Content**
+### [Regulation Name] Article [Article Number]
+- **Article Content**: [Excerpt of article]
+- **Interpretation**: [Practical interpretation]
+- **Points to Note**: [Important points]
+
+**Relationship Between Regulations**
+- Relationship between [Regulation A] and [Regulation B]: [Explanation]
+- Priority: [Which takes precedence]
+
+**C3 Checkpoints:**
+- [ ] Are latest regulatory amendments reflected?
+- [ ] Are all related regulations covered?
+- [ ] Are relationships between regulations clear?
+
+---
+
+### C4: PRACTICE (Practice Confirmation)
+**Purpose: Investigate actual implementation and case studies**
+
+**Tax Authority Implementation**
+- **Handling**: [Specific implementation method]
+- **Criteria**: [Judgment criteria]
+- **Exceptions**: [Exception cases]
+
+**Case Studies**
+| Company | Case Summary | Result | Reference Points |
+|---------|--------------|--------|------------------|
+| [Company Name] | [Summary] | [Result] | [Points] |
+
+**Official Letters and Opinions**
+- **Issue Date**: [Date]
+- **Content**: [Opinion summary]
+- **Applicable Scope**: [Applicable scope]
+
+**Discrepancies Between Regulations and Practice**
+- **Discrepancy Points**: [Specific differences]
+- **Practical Response**: [Actual response method]
+- **Risk**: [Risk from discrepancies]
+
+**C4 Checkpoints:**
+- [ ] Are discrepancies between regulations and practice accurately understood?
+- [ ] Are case studies appropriately collected?
+- [ ] Are latest tax authority opinions reflected?
+
+---
+
+### C5: IMPACT (Risk Assessment)
+**Purpose: Assess risks using two axes: financial impact and probability**
+
+**Risk Assessment Matrix**
+| Risk Item | Financial Impact | Probability | Risk Level | Countermeasures |
+|-----------|------------------|-------------|------------|-----------------|
+| [Risk 1] | [Amount] | High/Medium/Low | 🔴/🟡/🟢 | [Countermeasures] |
+
+**Detailed Risk Analysis**
+### [Risk Item Name]
+- **Financial Impact**: [Specific amount and basis]
+- **Probability**: [Probability and basis]
+- **Worst Case**: [Worst scenario]
+- **Best Case**: [Best scenario]
+- **Countermeasures**: [Specific countermeasures]
+
+**Risk Priority**
+1. **Most Critical**: [Risk name] - [Reason]
+2. **Important**: [Risk name] - [Reason]
+3. **Minor**: [Risk name] - [Reason]
+
+**C5 Checkpoints:**
+- [ ] Is risk assessment realistic and evidence-based?
+- [ ] Is financial impact specifically calculated?
+- [ ] Is probability appropriately assessed?
+
+---
+
+### C6: ANALYSIS (Analysis and Application)
+**Purpose: Comprehensively analyze regulations, practice, and risks to perform application**
+
+**Comprehensive Analysis**
+### Consistency Between Regulations and Practice
+- **Consistent Points**: [Points of agreement]
+- **Discrepancy Points**: [Points of difference]
+- **Practical Response**: [Actual response method]
+
+### Judgment Based on Risk Assessment
+- **High Risk Items**: [Specific response]
+- **Medium Risk Items**: [Specific response]
+- **Low Risk Items**: [Specific response]
+
+**Option Comparison**
+| Option | Advantages | Disadvantages | Risk | Recommendation |
+|--------|------------|---------------|------|-----------------|
+| [Option 1] | [Advantages] | [Disadvantages] | [Risk] | High/Medium/Low |
+| [Option 2] | [Advantages] | [Disadvantages] | [Risk] | High/Medium/Low |
+
+**Optimal Solution Derivation**
+**Recommended Response**: [Specific response method]
+**Reason**: [Reason for recommendation]
+**Prerequisites**: [Prerequisite conditions]
+
+**C6 Checkpoints:**
+- [ ] Is analysis logical and practical?
+- [ ] Are options appropriately compared?
+- [ ] Is basis for optimal solution clear?
+
+---
+
+### C7: CONCLUSION (Conclusion and Advice)
+**Purpose: Present specific action plans**
+
+**Conclusion**
+[Clear conclusion in 1-2 sentences]
+
+**Recommended Actions**
+### Immediate Execution (Within 1 week)
+1. **[Action 1]**: [Specific content]
+   - Responsible: [Responsible person]
+   - Deadline: [Deadline]
+   - Deliverable: [Deliverable]
+
+2. **[Action 2]**: [Specific content]
+   - Responsible: [Responsible person]
+   - Deadline: [Deadline]
+   - Deliverable: [Deliverable]
+
+### Short-term Response (Within 1 month)
+1. **[Action 3]**: [Specific content]
+   - Responsible: [Responsible person]
+   - Deadline: [Deadline]
+   - Deliverable: [Deliverable]
+
+### Medium to Long-term Response (Within 3 months)
+1. **[Action 4]**: [Specific content]
+   - Responsible: [Responsible person]
+   - Deadline: [Deadline]
+   - Deliverable: [Deliverable]
+
+**Follow-up**
+- **Confirmation Items**: [Items requiring confirmation]
+- **Next Consultation**: [Timing for next consultation]
+- **Continuous Monitoring**: [Items requiring continuous monitoring]
+
+**Risk Management**
+- **Continuous Risk**: [Risks requiring continuous attention]
+- **Countermeasures**: [Specific countermeasures]
+- **Escalation Criteria**: [Criteria requiring escalation]
+
+**C7 Checkpoints:**
+- [ ] Are actions specific and executable?
+- [ ] Are deadlines and responsible persons clear?
+- [ ] Is follow-up plan appropriate?
+
+---
+
+## FIRPIAC Review Function
+
+### Usage Method
+1. **Paste Text**: "Please review the following text using the FIRPIAC framework"
+2. **Execute Review**: "Please provide concise advice on gaps and improvement points"
+
+### Review Points
+- **C1**: Is fact organization appropriate?
+- **C2**: Is issue extraction comprehensive?
+- **C3**: Are related regulations confirmed without omission?
+- **C4**: Is practical implementation accurately understood?
+- **C5**: Is risk assessment appropriate?
+- **C6**: Is analysis logical?
+- **C7**: Is action plan executable?
+
+### Advice Format
+```
+## FIRPIAC Review Results
+
+### ✅ Good Points
+- [Specific good points]
+
+### ⚠️ Points Requiring Improvement
+- [Specific improvement points]
+
+### 📝 Additional Considerations
+- [Missing information]
+- [Additional items to consider]
+
+### 🎯 Recommended Actions
+1. [Specific improvement action]
+2. [Specific improvement action]
+```
+
+---
+
+## Usage Notes
+
+### ✅ Characteristics of Good Responses
+- Clear separation of facts and interpretation
+- Consideration of both regulations and practice
+- Presentation of specific amounts and schedules
+- Quantitative risk assessment
+
+### ❌ Points to Avoid
+- Mixing facts and speculation
+- Relying only on regulations for judgment
+- Using ambiguous expressions
+- Omitting risk assessment
+
+### 📝 Template Usage
+1. Receive customer questions
+2. Execute each stage sequentially from C1
+3. Generate integrated deliverables at the end
+4. Verify overall logic
+
+### 🔄 Quality Management
+- Consider missing information, assumptions, and alternatives
+- Always be aware of risk considerations
+- Adjust explanation level according to customer understanding
+
+---
+
+## Risk Considerations
+- **Legal Risk**: Misinterpretation of regulations, delayed response to amendments
+- **Tax Risk**: Additional tax assessments, tax audit findings
+- **Operational Risk**: Discrepancies with practice, increased operational costs
+- **Cost Risk**: Additional expenses, opportunity loss
+- **Human Risk**: Insufficient understanding by responsible persons, lack of execution capability
+- **Psychological/Social Risk**: Customer anxiety, impact on social credibility
+
+---
+
+## Update History
+- October 2024: Initial version created
+- October 2024: Improved version based on command-based prompt design
+- December 2024: Review & check function version created
+
+---
+
+*This framework is a specialized adaptation of McKinsey's "Sky-Rain-Umbrella" thinking method for Vietnamese tax and legal practice, incorporating the philosophy of command-based prompt design.*
