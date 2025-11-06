@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "953b9289a2c05676",
+    "type": "split",
+    "children": [
+      {
+        "id": "bacad0f49244c14d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1aefa5e07a09c4e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e75b768aedc9b09f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98ceef77cdb02d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc2ecdedde198f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "5b64e7ae0bf393c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "7f6450d8dd88b9c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd652968ab57e1f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9bbe35ad02858a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d4765d344f059f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "💌01_Inbox/01メモ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01メモへのバックリンク"
+            }
+          },
+          {
+            "id": "85d7be1c5d5f3e46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Welcomeからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "e269290abd9046d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "02bb3d010a790584",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Welcomeのアウトライン"
+            }
+          },
+          {
+            "id": "e0953e76b5c5ad11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e1aefa5e07a09c4e",
+  "lastOpenFiles": [
+    "05 chính sách mới về tiền tệ ngân hàng có hiệu lực từ tháng 92025.md",
+    "02_Webclip/2362025NĐ-CP.md",
+    "Welcome.md",
+    "Clippings/Cập nhập quy định về chuyển lỗ từ tháng 102025.md",
+    "Clippings/Mẫu Đơn đăng ký thay đổi khoản vay nước ngoài không được Chính phủ bảo lãnh được quy định như thế nào?.md",
+    "Clippings/Mẫu Sổ chi tiết các Tài khoản theo Thông tư 133 và 200.md",
+    "Clippings/Mức phạt khi không đăng ký khoản vay nước ngoài - Luật Việt An.md",
+    "Clippings/Nộp hồ sơ đăng ký vay trả nợ nước ngoài đúng hạn để hạn chế sai phạm phát sinh.md",
+    "Clippings",
+    "03_Book/璃子-SLOW　仕事の減らし方――「本当に大切なこと」に頭を使うための３つのヒント.md",
+    "03_Book/祐-天才性が見つかる 才能の地図.md",
+    "03_Book/悠輔-22世紀の民主主義　選挙はアルゴリズムになり、政治家はネコになる.md",
+    "03_Book/柳澤綾子-身体を壊す健康法 年間500本以上読破の論文オタクの東大医学博士＆現役医師が、世界中から有益な情報を見つけて解き明かす。.md",
+    "03_Book/あゆみ-ＬＩＦＥＳＰＡＮ（ライフスパン）―老いなき世界.md",
+    "03_Book/建-ＴＨＩＮＫ　ＡＧＡＩＮ　発想を変える、思い込みを手放す.md",
+    "03_Book/ブリジッド・ディレイニー、鶴見紀子-心穏やかに生きる哲学 ストア派に学ぶストレスフルな時代を生きる考え方.md",
+    "03_Book/奈美-知ってるつもり　無知の科学.md",
+    "03_Book/真宗-みんなのフィードバック大全.md",
+    "03_Book/鈴木祐-科学的な適職【ビジネス書グランプリ2021 自己啓発部門 受賞！】.md",
+    "03_Book/一郎-科学的に幸せになれる脳磨き.md",
+    "03_Book/朗子-ユーモアは最強の武器である―スタンフォード大学ビジネススクール人気講義.md",
+    "03_Book/トーマス・Ｓ・マラニー、クリストファー・レア、安原和見-リサーチのはじめかた　――「きみの問い」を見つけ、育て、伝える方法.md",
+    "03_Book/宮台真司-私たちはどこから来て、どこへ行くのか.md",
+    "03_Book/Ｊ・クリシュナムルティ、飯尾順生-最初で最後の自由.md",
+    "03_Book/孝-古典が最強のビジネスエリートをつくる.md",
+    "03_Book/ハーバード・ビジネス・レビュー編集部、DIAMONDハーバード・ビジネス・レビュー編集部-ハーバード・ビジネス・レビュー(ＥＩシリーズ) マインドフル・リスニング.md",
+    "03_Book/ライディ・クロッツ、塩原通緒-引き算思考　「減らす」「削る」「やめる」がブレイクスルーを起こす.md",
+    "AAA",
+    "無題のファイル.canvas",
+    "💌01_Inbox",
+    "02_Webclip",
+    "01_Inbox",
+    "04",
+    "03のコピー",
+    "03_Book",
+    "02のコピー",
+    "02"
+  ]
+}
